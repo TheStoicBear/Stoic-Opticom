@@ -1,4 +1,5 @@
 # Stoic-Opticom
+![20240118_235258_0000](https://github.com/TheStoicBear/Stoic-Opticom/assets/112611821/99dfd385-5519-430c-92bf-829cac15786a)
 
 This Lua script is designed for controlling traffic lights in a game environment. It allows you to interact with traffic lights, change them to green, and automatically reset them to red after a specified duration.
 
