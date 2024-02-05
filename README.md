@@ -1,3 +1,8 @@
+# For Andy from NDFrammework
+# I did not make, I do not claim rights and it's Open Source.
+
+
+
 # Stoic-Opticom
 ![20240118_235258_0000](https://github.com/TheStoicBear/Stoic-Opticom/assets/112611821/99dfd385-5519-430c-92bf-829cac15786a)
 
